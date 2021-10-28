@@ -19,7 +19,7 @@ DOI 10.1002/jcc.21334
 
 #This PERL program (RUN_VS.pl) is developed for virtual screenling: multiple proteins against multiple ligands using autodock_vina in linux
 
-#Download autodock vina for linux
+#Download autodock vina for linux from https://vina.scripps.edu/downloads/
 
 #Put all ligands(ligands.pdbqt) in INPUT/LIGANDS directory
 
