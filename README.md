@@ -30,8 +30,7 @@ DOI 10.1002/jcc.21334
 #run perl RUN_VS.pl
 
 #output will be saved in OUTPUT directory 
-
-#OUTPUT directory contains PROTGEIN_LIGAND_DOCKING_RES.csv and DOCKING directory containg docking configuration files 
+#PROTGEIN_LIGAND_DOCKING_RES.csv and DOCKING directory containg docking configuration files will be created in OUTPUT directory 
 
 #download example INPUT directory along with RUN_VS.pl to test sample run
 
